@@ -1,0 +1,11 @@
+C:\Users\Sam-Le\Desktop\csharp\deck_of_cards\obj\Debug\netcoreapp2.2\deck_of_cards.csprojAssemblyReference.cache
+C:\Users\Sam-Le\Desktop\csharp\deck_of_cards\obj\Debug\netcoreapp2.2\deck_of_cards.csproj.CoreCompileInputs.cache
+C:\Users\Sam-Le\Desktop\csharp\deck_of_cards\obj\Debug\netcoreapp2.2\deck_of_cards.AssemblyInfoInputs.cache
+C:\Users\Sam-Le\Desktop\csharp\deck_of_cards\obj\Debug\netcoreapp2.2\deck_of_cards.AssemblyInfo.cs
+C:\Users\Sam-Le\Desktop\csharp\deck_of_cards\bin\Debug\netcoreapp2.2\deck_of_cards.deps.json
+C:\Users\Sam-Le\Desktop\csharp\deck_of_cards\bin\Debug\netcoreapp2.2\deck_of_cards.runtimeconfig.json
+C:\Users\Sam-Le\Desktop\csharp\deck_of_cards\bin\Debug\netcoreapp2.2\deck_of_cards.runtimeconfig.dev.json
+C:\Users\Sam-Le\Desktop\csharp\deck_of_cards\bin\Debug\netcoreapp2.2\deck_of_cards.dll
+C:\Users\Sam-Le\Desktop\csharp\deck_of_cards\bin\Debug\netcoreapp2.2\deck_of_cards.pdb
+C:\Users\Sam-Le\Desktop\csharp\deck_of_cards\obj\Debug\netcoreapp2.2\deck_of_cards.dll
+C:\Users\Sam-Le\Desktop\csharp\deck_of_cards\obj\Debug\netcoreapp2.2\deck_of_cards.pdb
